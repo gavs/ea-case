@@ -192,6 +192,7 @@ main {
   padding-left: 80px;
   padding-right: 80px;
   box-shadow: 0 8px 16px rgba(0, 0, 0, .15);
+  margin-bottom: 1160px; /* Fix for FF */
 }
 
 .progress-navigation-wrapper.sticky h1 {
@@ -343,6 +344,7 @@ section {
 
   .progress-navigation-wrapper.sticky {
     top: 12px;
+    margin-bottom: 980px; /* Fix for FF */
   }
 
   .progress-navigation-wrapper.sticky .list-item {

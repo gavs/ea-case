@@ -361,6 +361,7 @@ section {
   .list-item-number {
     height: 36px;
     width: 36px;
+    font-size: 1rem;
   }
 
   .list-item-label {
